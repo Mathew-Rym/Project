@@ -19,7 +19,7 @@ Check out the live website [Sports Bikes Hub] https://mathew-rym.github.io/Sport
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone git@github.com:Mathew-Rym/Project.git
+   git clone git@github.com:Mathew-Rym/Sportbikes.git
    ```
 2. Navigate to the project folder:
    ```sh
